@@ -11,3 +11,4 @@ This repo was created to practice commits and basic GitHub usage on Android.
 
 ## License
 MIT License
+Add hello message to README
